@@ -6,8 +6,12 @@ description: Lecture summary, written by a student. The focus of this lecture is
   the objects, and review the planet-star flux ratio with a wrap-up summary of how
   scientists are planning to use the direct-imaging technique to search for extrasolar
   Earth-twins.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-425-extrasolar-planets-physics-and-detection-techniques-fall-2007/8a25e0678462e615c224ddc27fbdc254_lecture12.pdf
+file: /media/courses/12-425-extrasolar-planets-physics-and-detection-techniques-fall-2007/8a25e0678462e615c224ddc27fbdc254_lecture12.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Class Activities
+parent_type: CourseSection
 resourcetype: Document
 title: lecture12.pdf
 uid: 8a25e067-8462-e615-c224-ddc27fbdc254

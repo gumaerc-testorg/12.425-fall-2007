@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Class Activities
 uid: 0082942d-ecbc-4c75-6085-9cb28feee074
 ---

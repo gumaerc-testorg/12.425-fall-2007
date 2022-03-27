@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Class Activities
 parent_type: CourseSection
+parent_uid: 0082942d-ecbc-4c75-6085-9cb28feee074
 resourcetype: Document
 title: lecture6.pdf
 uid: 665a9dff-fa78-84ce-0d74-93f7426ec635

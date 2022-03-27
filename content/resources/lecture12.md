@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Class Activities
 parent_type: CourseSection
+parent_uid: 0082942d-ecbc-4c75-6085-9cb28feee074
 resourcetype: Document
 title: lecture12.pdf
 uid: 8a25e067-8462-e615-c224-ddc27fbdc254

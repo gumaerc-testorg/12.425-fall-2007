@@ -13,6 +13,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Class Activities
 parent_type: CourseSection
+parent_uid: 0082942d-ecbc-4c75-6085-9cb28feee074
 resourcetype: Document
 title: lecture5.pdf
 uid: 7d4b01e4-dde9-ff7f-72e3-34cfac2f868d

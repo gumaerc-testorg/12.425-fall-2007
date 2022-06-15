@@ -1,9 +1,16 @@
 ---
 content_type: page
+description: The syllabus section provides the course description and information
+  about prerequisites, further background on the course, goals, learning objectives,
+  textbooks and class handouts, class participation, homework, and grades.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 8a8bf1b3-d7a8-c68b-7deb-afd1d52fab21
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Prerequisites

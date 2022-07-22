@@ -6,6 +6,7 @@ description: Lecture summary, written by a student. The focus of this class is t
 file: /courses/12-425-extrasolar-planets-physics-and-detection-techniques-fall-2007/665a9dfffa7884ce0d7493f7426ec635_lecture6.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Class Activities
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture summary, written by a student. The focus of this class is to discuss solar system planet densities, review transit light curves and radial velocity curves, and then calculate exoplanet densities and surface gravities.
-

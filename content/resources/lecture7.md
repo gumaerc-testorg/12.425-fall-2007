@@ -7,6 +7,7 @@ description: Lecture summary, written by a student. The focus of this class is t
 file: /courses/12-425-extrasolar-planets-physics-and-detection-techniques-fall-2007/6bdae4e870e39d6599997778ab41c062_lecture7.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Class Activities
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture summary, written by a student. The focus of this class is to discuss the basic composition and structure of planets, how they are compressed based the relation between pressure and gravity, how to calculate the pressure at planets? interiors, and how to estimate central pressure of planets.
-

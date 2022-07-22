@@ -9,6 +9,7 @@ file: /courses/12-425-extrasolar-planets-physics-and-detection-techniques-fall-2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -22,4 +23,3 @@ video_metadata:
   youtube_id: null
 ---
 Problem set on the time taken by a spacecraft to get to the nearest exoplanet, properties of exoplanets, exoplanet transit light curves for non-central transits, planet radius, star radius and mass, semi-major axis, and orbital inclination for HD 209458, and planet radius, star radius and mass, semi-major axis, and orbital inclination for GJ 436.
-

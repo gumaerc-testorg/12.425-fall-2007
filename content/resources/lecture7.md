@@ -5,6 +5,7 @@ description: Lecture summary, written by a student. The focus of this class is t
   based the relation between pressure and gravity, how to calculate the pressure at
   planets? interiors, and how to estimate central pressure of planets.
 file: /courses/12-425-extrasolar-planets-physics-and-detection-techniques-fall-2007/6bdae4e870e39d6599997778ab41c062_lecture7.pdf
+file_size: 19292
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

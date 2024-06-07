@@ -8,6 +8,7 @@ description: Lecture summary, written by a student. The focus of this class was 
   plane of the motion of orbit, finding planet motion in the direct line of sight,
   and then using Kepler?s second law of motion to calculate the planet mass.
 file: /courses/12-425-extrasolar-planets-physics-and-detection-techniques-fall-2007/7d4b01e4dde9ff7f72e334cfac2f868d_lecture5.pdf
+file_size: 11104
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

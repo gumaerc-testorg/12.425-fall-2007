@@ -4,6 +4,7 @@ description: Lecture summary, written by a student. The focus of this lecture is
   discuss the requirements for life, Earth as an exoplanet, and the search for extra
   terrestrial intelligence.
 file: /courses/12-425-extrasolar-planets-physics-and-detection-techniques-fall-2007/13bfaceb2ffcea193715461be6666e9c_lecture17.pdf
+file_size: 9858
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

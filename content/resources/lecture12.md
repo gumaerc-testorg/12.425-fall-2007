@@ -7,6 +7,7 @@ description: Lecture summary, written by a student. The focus of this lecture is
   scientists are planning to use the direct-imaging technique to search for extrasolar
   Earth-twins.
 file: /courses/12-425-extrasolar-planets-physics-and-detection-techniques-fall-2007/8a25e0678462e615c224ddc27fbdc254_lecture12.pdf
+file_size: 10705
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

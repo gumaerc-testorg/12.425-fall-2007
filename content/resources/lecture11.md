@@ -6,6 +6,7 @@ description: Lecture summary, written by a student. The focus of this lecture is
   formula for energy balance and learn how scientists calculate planetary equilibrium
   temperatures.
 file: /courses/12-425-extrasolar-planets-physics-and-detection-techniques-fall-2007/521d62de52f9bf736c4b2e2d74496e6a_lecture11.pdf
+file_size: 11334
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

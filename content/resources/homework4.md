@@ -3,6 +3,7 @@ content_type: resource
 description: Problem set on planet albedos and related questions, black body radiation,
   and planet body and radiation.
 file: /courses/12-425-extrasolar-planets-physics-and-detection-techniques-fall-2007/d5da6a63493304702109418ec3a520a9_homework4.pdf
+file_size: 72105
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -5,6 +5,7 @@ description: Lecture summary, written by a student. The focus of this lecture is
   of radiative transfer and one solution to that equation. They will also estimate
   transmission spectra flux ratios and the exoplanet transmission spectra and/or photometry.
 file: /courses/12-425-extrasolar-planets-physics-and-detection-techniques-fall-2007/c043203dffa99b352994ea88f9c885a6_lecture14.pdf
+file_size: 11559
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,7 +5,7 @@ description: Lecture summary, written by a student. The focus of this lecture is
   and what they represent mathematically. Students will become familiar with Kirchhoff?s
   Law, a second solution of the radiative transfer equation, and the mathematical
   approach to understanding thermal emission spectra.
-file: /courses/12-425-extrasolar-planets-physics-and-detection-techniques-fall-2007/c15da53f6cee56b461ff459f38e0a4da_lecture15.pdf
+file: /ol-ocw-studio-app/courses/12-425-extrasolar-planets-physics-and-detection-techniques-fall-2007/c15da53f6cee56b461ff459f38e0a4da_lecture15.pdf
 file_size: 13010
 file_type: application/pdf
 learning_resource_types: []

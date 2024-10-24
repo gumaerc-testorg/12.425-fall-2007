@@ -6,7 +6,7 @@ description: Lecture summary, written by a student. The focus of this lecture is
   class is to determine whether scientists can draw conclusions about alien life based
   on spectra of exoplanets and what considerations should be made when discussing
   "life" and its components.
-file: /courses/12-425-extrasolar-planets-physics-and-detection-techniques-fall-2007/0c87957e87cc18b5d6651f5337065140_lecture18.pdf
+file: /ol-ocw-studio-app/courses/12-425-extrasolar-planets-physics-and-detection-techniques-fall-2007/0c87957e87cc18b5d6651f5337065140_lecture18.pdf
 file_size: 13809
 file_type: application/pdf
 learning_resource_types: []

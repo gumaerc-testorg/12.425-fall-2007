@@ -5,7 +5,7 @@ description: Problem set on the time taken by a spacecraft to get to the nearest
   planet radius, star radius and mass, semi-major axis, and orbital inclination for
   HD 209458, and planet radius, star radius and mass, semi-major axis, and orbital
   inclination for GJ 436.
-file: /courses/12-425-extrasolar-planets-physics-and-detection-techniques-fall-2007/391b3fa5594bb6b6d31d6a0f7ec8e6af_homework1.pdf
+file: /ol-ocw-studio-app/courses/12-425-extrasolar-planets-physics-and-detection-techniques-fall-2007/391b3fa5594bb6b6d31d6a0f7ec8e6af_homework1.pdf
 file_size: 166650
 file_type: application/pdf
 learning_resource_types:

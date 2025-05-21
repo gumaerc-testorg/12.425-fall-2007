@@ -4,7 +4,7 @@ description: Lecture summary, written by a student. The focus of this lecture is
   discuss microlensing and astrometry as planet discovery techniques. Students will
   be introduced to the techniques of each detection method and the characterizations
   about planets astronomers can make using these techniques.
-file: /ol-ocw-studio-app/courses/12-425-extrasolar-planets-physics-and-detection-techniques-fall-2007/45379fd5813ef128044845f407a20a2b_lecture16.pdf
+file: /courses/12-425-extrasolar-planets-physics-and-detection-techniques-fall-2007/45379fd5813ef128044845f407a20a2b_lecture16.pdf
 file_size: 14115
 file_type: application/pdf
 learning_resource_types: []

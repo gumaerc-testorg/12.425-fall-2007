@@ -5,7 +5,7 @@ description: Lecture summary, written by a student. The focus of this lecture is
   and determine how star?s and planet?s temperatures can be defined by the black body
   radiation curves. Students will define temperature and assess exoplanet temperature
   data reported in the news.
-file: /ol-ocw-studio-app/courses/12-425-extrasolar-planets-physics-and-detection-techniques-fall-2007/9ad7d02927a263a9042730a3a2e4d88b_lecture10.pdf
+file: /courses/12-425-extrasolar-planets-physics-and-detection-techniques-fall-2007/9ad7d02927a263a9042730a3a2e4d88b_lecture10.pdf
 file_size: 10651
 file_type: application/pdf
 learning_resource_types: []

@@ -2,7 +2,7 @@
 content_type: resource
 description: Problem set on the star planet radii, equations of state, and planetary
   interior structure.
-file: /ol-ocw-studio-app/courses/12-425-extrasolar-planets-physics-and-detection-techniques-fall-2007/54f429c80ff58b39458ffec375f877f9_homework3.pdf
+file: /courses/12-425-extrasolar-planets-physics-and-detection-techniques-fall-2007/54f429c80ff58b39458ffec375f877f9_homework3.pdf
 file_size: 86919
 file_type: application/pdf
 learning_resource_types:

@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture summary, written by a student. The focus of this class is to
   discuss equations of state, phase diagrams, methods for measuring equations of state
   and the analytical forms of those equations.
-file: /courses/12-425-extrasolar-planets-physics-and-detection-techniques-fall-2007/93101b38d7b28cfe3a20b5c7626b9543_lecture8.pdf
+file: /ol-ocw-studio-app/courses/12-425-extrasolar-planets-physics-and-detection-techniques-fall-2007/93101b38d7b28cfe3a20b5c7626b9543_lecture8.pdf
 file_size: 11027
 file_type: application/pdf
 learning_resource_types: []
